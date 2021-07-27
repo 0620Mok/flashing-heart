@@ -10,4 +10,4 @@
         # # # # # 
         . # # # . 
         . . # . .
-        `</field></block></next></block></statement></block></xml>
+        `</field></block></next></block></statement></block><block type="device_print_message" id="Sl%M09=%dorgIWy2%Y2S" disabled="true" x="36" y="407"><value name="text"><shadow type="text" id="_*3eM02,k{Rm!#Tn}]9s" disabled="true"><field name="TEXT">Hi</field></shadow></value></block></xml>
